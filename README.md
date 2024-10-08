@@ -1,4 +1,4 @@
-# Match the user interface style to identify the forum where the malicious activites is going on, those the threat feed channels are discussing or posting on social medias.
+# Match the user interface style to identify the forum
 **XSS Forum**
 ![XSS Forum](https://github.com/user-attachments/assets/e6dd8823-4946-4f73-957c-71b58afcfb8a)
 
