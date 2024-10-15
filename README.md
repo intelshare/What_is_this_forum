@@ -17,7 +17,7 @@
 **Darkforums**
 ![Darkforums](https://github.com/user-attachments/assets/5bf00c1d-3ae2-44ea-a94c-38c16ecc1fa9)
 
-**Leakbase**
+**Leakbase io**
 ![Leakbase](https://github.com/user-attachments/assets/f47cfa90-ff58-4850-b55e-e27f0a3b0e64)
 
 **Nulled**
@@ -67,6 +67,10 @@
 
 **Lozerix**
 ![Lozerix](https://github.com/user-attachments/assets/fed116a0-1d64-463b-9cad-ba57e2ec7083)
+
+**Leakbase cc**
+![leakbasecc](https://github.com/user-attachments/assets/038b3041-bee6-4e29-8ff9-88cf40cdcf20)
+
 
 
 
