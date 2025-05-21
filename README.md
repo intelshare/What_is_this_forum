@@ -92,5 +92,8 @@
 **Darknet Chinese Trading**
 ![image](https://github.com/user-attachments/assets/c6a33747-60a5-49a2-b98e-2d4ba1ea7edf)
 
+**Lose Privacy**
+![image](https://github.com/user-attachments/assets/78fb9107-2d6d-4f66-9f23-1610bff36d8c)
+
 
 
