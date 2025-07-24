@@ -15,7 +15,7 @@
 ![Sinister](https://github.com/user-attachments/assets/0cf9d625-d5ff-4814-bca3-58692f1c5268)
 
 **Darkforums** **Darkforums now have similiar UI just like Breachforums**
-![Darkforums]( <img width="1080" height="662" alt="image" src="https://github.com/user-attachments/assets/5af1e2b5-a0fe-4fd1-9019-b9028c4f905b" />)
+![Darkforums] <img width="1080" height="662" alt="image" src="https://github.com/user-attachments/assets/5af1e2b5-a0fe-4fd1-9019-b9028c4f905b" />
 
 **Leakbase io**
 ![Leakbase](https://github.com/user-attachments/assets/f47cfa90-ff58-4850-b55e-e27f0a3b0e64)
