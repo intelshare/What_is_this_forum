@@ -5,6 +5,21 @@
 **RAMP Forum**
 ![RAMP](https://github.com/user-attachments/assets/1b59a361-95fb-4ba1-937b-4d0da6098a7c)
 
+**Rehubcom**
+<img width="1178" height="555" alt="Rehubcom" src="https://github.com/user-attachments/assets/ac0830bb-8894-4a15-8a0d-b7647e6d10dd" />
+
+**DamageLib**
+<img width="1374" height="598" alt="DamageLib" src="https://github.com/user-attachments/assets/04f206fe-45ee-4a82-b90a-886f19f15211" />
+
+**XSSF**
+<img width="1246" height="499" alt="XSSF" src="https://github.com/user-attachments/assets/ffb06178-946b-456c-99ba-7afed72b684d" />
+
+**Gerki**
+<img width="1284" height="457" alt="Gerki" src="https://github.com/user-attachments/assets/b169c047-eda8-4c90-acee-b4c2583cfd85" />
+
+**Endway**
+<img width="1175" height="493" alt="Endway" src="https://github.com/user-attachments/assets/9b436e28-5e35-4ea7-abc6-86393494675e" />
+
 **Breachforums**
 ![Breachforum](https://github.com/user-attachments/assets/53a0e85a-ce1f-40be-8e44-030d9e368b08)
 
@@ -87,7 +102,6 @@
 ![image](https://github.com/user-attachments/assets/338927f5-4842-45f5-836c-52bdfc0a42f4)
 
 
-
 **Darknet Chinese Trading**
 ![image](https://github.com/user-attachments/assets/c6a33747-60a5-49a2-b98e-2d4ba1ea7edf)
 
@@ -95,4 +109,20 @@
 ![image](https://github.com/user-attachments/assets/78fb9107-2d6d-4f66-9f23-1610bff36d8c)
 
 
+
+
+
+
+
+## ⚠️ Disclaimer
+
+> These links is provided **exclusively for educational and ethical research purposes.**
+>
+> - ❌ Do **NOT** use it on personal machines.
+> - ❌ Do **NOT** distribute this links with malicious intent.
+> - ✅ Use only in isolated VMs or Whonix.
+>
+> The author takes **no responsibility** for misuse or damages. By using this forums, you agree to use it **legally and ethically**, in full compliance with local and international laws.
+
+---
 
