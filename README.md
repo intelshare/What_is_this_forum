@@ -112,10 +112,17 @@
 **Lose Privacy**
 ![image](https://github.com/user-attachments/assets/78fb9107-2d6d-4f66-9f23-1610bff36d8c)
 
+**Probiv CC**
+<img width="1579" height="723" alt="Screenshot_20260706_150725" src="https://github.com/user-attachments/assets/cce1a346-df7c-47d8-bf59-ad517ec5bc1d" />
 
+**BHF**
+<img width="1358" height="812" alt="Screenshot_20260706_151902" src="https://github.com/user-attachments/assets/a8665359-4ec7-421a-b995-2d6ec09dce5c" />
 
+**Dark Net Army**
+<img width="1497" height="522" alt="Screenshot_20260706_152443" src="https://github.com/user-attachments/assets/d04d4a0b-5891-431e-ac47-5b6e2366e400" />
 
-
+**Duty Free**
+<img width="1428" height="665" alt="Screenshot_20260708_161546" src="https://github.com/user-attachments/assets/f4f43fb0-a05e-430e-a842-ee44678577e2" />
 
 
 ## ⚠️ Disclaimer
