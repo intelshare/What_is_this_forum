@@ -127,6 +127,9 @@
 **T1eron3**
 <img width="1652" height="576" alt="Screenshot_20260819_202148" src="https://github.com/user-attachments/assets/bb3331a4-9a26-4f54-9a2e-fb1dac3aa0c3" />
 
+**DamageLib 2.0 (June 2026)**
+<img width="1775" height="905" alt="Screenshot_20260819_203400" src="https://github.com/user-attachments/assets/9e8bb2cd-c54e-41b6-8155-7429c80c2e84" />
+
 
 ## ⚠️ Disclaimer
 
